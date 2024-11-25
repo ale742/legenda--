@@ -61,9 +61,15 @@
   </div>
 
 </div>
+<div class="row">
+  <div class="col my-4">
+    <h3 class="text-end">общая сумма товаров $423513</h3>
+  </div>
 </div>
 
 
 
+
+</div>
 </template>
 
